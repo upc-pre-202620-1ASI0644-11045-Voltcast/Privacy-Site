@@ -1,3 +1,3 @@
-# VoltCast site
+# VoltCast Privacy Site
 
-Sitio estático (HTML + CSS). Para publicarlo: Settings → Pages → Deploy from a branch → `main` → `/(root)`.
+Página de Acuerdos y Política de Privacidad
